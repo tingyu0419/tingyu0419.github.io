@@ -1,28 +1,28 @@
 # Site settings
-title: BY Blog
-SEOTitle: 听雨的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+title: TY Blog    # 你的博客网站标题
+SEOTitle: 听雨的博客 | TY Blog   # SEO 标题
+header-img: img/post-bg-desk.jpg    #首页的图片
 email: yang.zengyu@foxmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 听雨的博客, qiubaiying, 听雨, Java"
+description: ""  # 随便说点，描述一下
+keyword: "TY, TY Blog, 听雨的博客, qiubaiying, 听雨, Java"
 url: "https://tingyu0419.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/tingyu0419/tingyu0419.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar: true                           #是否添加侧边栏
+sidebar-about-description: "Goals determine what you going to be!"  #简单的描述一下自己
+sidebar-avatar: /img/about-BY-gentle.jpg      #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+zhihu_username:     听雨
+github_username:    tingyu0419
+#facebook_username:  baiying.qiu.7
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
@@ -98,17 +98,17 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+#    {
+#        title: "WY",
+#        href: "http://zhengwuyang.com"
+#    },{
+#        title: "简书·BY",
+#        href: "http://www.jianshu.com/u/e71990ada2fd"
+#    },{
+#        title: "Apple",
+#        href: "https://apple.com"
+#    },{
+#        title: "Apple Developer",
+#        href: "https://developer.apple.com/"
+#    }
 ]
