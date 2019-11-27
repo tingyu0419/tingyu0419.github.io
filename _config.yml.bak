@@ -1,7 +1,7 @@
 # Site settings
 title: TY Blog    # 你的博客网站标题
 SEOTitle: 听雨的博客 | TY Blog   # SEO 标题
-header-img: img/post-bg-desk.jpg    #首页的图片
+header-img: img/home-bg.jpg    #首页的图片
 email: yang.zengyu@foxmail.com
 description: ""  # 随便说点，描述一下
 keyword: "TY, TY Blog, 听雨的博客, qiubaiying, 听雨, Java"
