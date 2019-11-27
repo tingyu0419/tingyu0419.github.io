@@ -4,14 +4,14 @@ SEOTitle: 听雨的博客 | TY Blog   # SEO 标题
 header-img: img/home-bg.jpg    #首页的图片
 email: yang.zengyu@foxmail.com
 description: ""  # 随便说点，描述一下
-keyword: "TY, TY Blog, 听雨的博客, tingyu0419, 听雨, Java"
+keyword: "TY, TY Blog, 听雨的博客, qiubaiying, 听雨, Java"
 url: "https://tingyu0419.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/tingyu0419/tingyu0419.github.io.git" # 你代码的仓库
+github_repo: "https://github.com/tingyu0419/tingyu0419.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           #是否添加侧边栏
-sidebar-about-description: "I know that my future is not just a dream."  #简单的描述一下自己  我知道我的未来不是梦。
+sidebar-about-description: "Goals determine what you going to be!"  #简单的描述一下自己
 sidebar-avatar: /img/about-BY-gentle.jpg      #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
 
 
