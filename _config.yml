@@ -11,7 +11,7 @@ github_repo: "https://github.com/tingyu0419/tingyu0419.github.io.git" # 你代�
 
 # Sidebar settings
 sidebar: true                           #是否添加侧边栏
-sidebar-about-description: "Goals determine what you going to be!"  #简单的描述一下自己
+sidebar-about-description: "I know that my future is not just a dream."  #简单的描述一下自己  我知道我的未来不是梦。
 sidebar-avatar: /img/about-BY-gentle.jpg      #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
 
 
